@@ -42,6 +42,10 @@ pre {
     color: #afaf87;
 }
 
+.Comment {
+    color: deeppink;
+}
+
 .Type {
     color: #5fd7ff;
 }
@@ -113,4 +117,3 @@ pre {
     margin: 10px auto;
     font-size: 80%;
 }
-
